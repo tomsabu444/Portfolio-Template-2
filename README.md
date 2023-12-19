@@ -1,6 +1,6 @@
 <div align="center">
 
-# VERSION 1 - Personal portfolio
+# VERSION 2 - Personal portfolio
 
 VERSION 1 is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
